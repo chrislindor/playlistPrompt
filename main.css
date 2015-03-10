@@ -1,0 +1,36 @@
+/* Css for java file*/
+
+html{
+    background-color: #e7e4e3;
+}
+
+body{
+    width: 75%;
+    margin: 0 auto;
+}
+section {
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgba( 255, 255, 255, 0.7 );
+    font-family: sans-serif;
+    margin: 50px 0 0 0; 
+    padding: 20px;
+    
+}
+
+h1,
+h3,
+h4 {
+    text-align: center;
+}
+h1 {
+    color: #65b7ff;
+}
+pcolor{
+    color: #494949;
+    font-size: 2em;
+}
+section a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
